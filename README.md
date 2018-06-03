@@ -15,9 +15,13 @@ Ech se ne belan, la pluralo per la finayo -s sufiche taugan, char ji similas al 
 ## Ortografio
 Ech se ne tre belan, por la ĉ, ŝ, ŭ ni uzon la h-sistemo de Zamenofo, do ch, sh kay u. Ne gravan, char tio esta provizara!
 Ni faron kelka modifios por taugi kun la nuna internacia kutimo :
+
 ĝ -> j
+
 j -> y
+
 “ŭ” inter du vokalos, au en la komenco de vorto, ijon “w”.
+
 
 Kompreneble ni devon krei nova vortos por tiuy kiuy uzan la olda litero “ĵ”. Ekzemple, oni diran: “Ni neniam jetan manjayos” anstatau “Ni neniam ĵetas manĝaĵojn”.
 
