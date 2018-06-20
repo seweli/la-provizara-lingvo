@@ -1,20 +1,19 @@
 # la-provizara-lingvo
-La provizara lingvo estan "koopidgina" esperantido kiu restan tre tre prokisma al la nuna Esperanto. Fakte, nune, La Provizara estan nur embrio de esperantido. Ekzemple, mi ne scian kiel traduki "Mi shatan la alia(s)" en la pluralo.
+La provizara lingvo estan "koopidgina" esperantido kiu restan tre tre proksisma al la nuna Esperanto. Fakte, nune, La Provizara estan nur embrio de esperantido. Ekzemple, mi ne scian kiel traduki "Mi pli shatan la alia(s)." en la pluralo.
 
-Mi volan paroli la provizara lingvo, char ji havan nur malmulta malsamecos kompare al la zamenofa lingvo.
-Do, yen KoopidginoProvizaraLingvo001:
+Nu... Mi volun paroli la provizara lingvo, char ji havan nur malmulta malsamecos kompare al la zamenofa lingvo.
+Do, yen la KoopidginoProvizaraLingvo001:
 
 ## Celo
-La celo de la provizara lingvo estan esti provizara. Ji devan esti ankau sufiche neutra kaj sufiche simpla por ebli homos el la tuta mondo kunlabori por krei pli moderna helplingvos, pli moderna eduksciencos por lingvinstruado, pli efika politika proponos por savi kay liberigi la endenjera lingvos.
+La celo de la provizara lingvo estan ye esti provizara. Ji devan esti ankau sufiche neutra kay sufiche simpla por ebligi homos el la tuta mondo kunlabori por krei pli moderna helplingvos, pli moderna eduksciencos por lingvinstruado, pli efika politika proponos por savi kay liberigi la endenjera lingvos, kotopo ;-)
 
-Do kio ijon Esperantujo? Ji vershajne reston la unua helplingvo. Kay li reston ia amika granda frato kay tre respektinda modelo por multa nova helplingvujos.
+Do kio ijon Esperantuyo se alia esperantidos ekzistas samtempe? Ji vershajne reston la chefa helplingvo. Kay li reston ia amika granda frato kay tre respektinda modelo por la multa nova helplingvuyos.
 
 ## Pluralo
-Ech se ne belan, la pluralo per la finayo -s sufiche taugan, char ji similas al la angla kay al la hispana, kay char la finayo per -y ne belun.
+Ech se ne belan, la pluralo per la finayo -s sufiche taugan, char ji similas al la angla kay al la hispana, kay char la finayo per -y ne belun (ech se ji belsonun, lau mi).
 
 ## Ortografio
-Ech se ne tre belan, por la ĉ, ŝ, ŭ ni uzon la h-sistemo de Zamenofo, do ch, sh kay u. Ne gravan, char tio esta provizara!
-Ni faron kelka modifios por taugi kun la nuna internacia kutimo :
+Ech se ne tre belan, por la ĉ, ŝ, ŭ ni uzon la h-sistemo de Zamenofo, tio estan ch, sh kay u. Nu. Ne gravan se ne belan, char tio esta ... provizara! Ni faron kelka modifios por taugi kun la nuna internacia alfabetika kutimo :
 
 ĝ -> j
 
@@ -23,18 +22,25 @@ j -> y
 “ŭ” inter du vokalos, au en la komenco de vorto, ijon “w”.
 
 
-Kompreneble ni devon krei nova vortos por tiuy kiuy uzan la olda litero “ĵ”. Ekzemple, oni diran: “Ni neniam jetan manjayos” anstatau “Ni neniam ĵetas manĝaĵojn”.
+Kompreneble ni devon krei nova vortos por tiuy kiuy uzan la olda litero “ĵ”.
+
+Ekzemple, oni povun diri: “Ni neniam yetan manjayos” anstatau “Ni neniam ĵetas manĝaĵojn”.
 
 ## Akuzativo
-Ji estan indikata per la prepozicio “na” sed ji estan nedevigata.
+Ji estan indikata per la prepozicio “na” sed ji estan nedevigata, kay malofta.
 
-## Landnomos
-francos -> Franclando
-polos -> Pollando
-svisos -> Svislando
-usonanos <- Usono
-brazilanos <- Brazilo
-Ne tre belan? Ne gravan! Estan PROVIZORA :-)
+## Lojnomo - landnomo
+
+Unua metodo:
+franco -> Franclando
+polo -> Pollando
+sviso -> Svislando
+
+Dua metodo:
+usonano <- Usono
+brazilano <- Brazilo
+
+Ne tre belan? Ne gravan! Estan ... PROVIZORA!
 
 ## Verbos
 Mi kantin.
@@ -53,10 +59,13 @@ Kio? -icho ne belan? Ne gravan! Estan PROVIZORO :-)
 
 Tio novayo ne facilan. Ji estan eble la pli malfacila el la novayos de nia provizara lingvo, char ni devon chanji multa vortos. Tamen, mi pensan ke eblan kun kelka tagos da laboro.
 
-## Futuro?
+## Futuro? 
 Yes. Futuro estan sinonimo kun “estonteco”. Kial? Char “futuro” ja estan nune internacia vorto, defakte ;-)
+Do, ni ne timan neologios, speciale kiam ili estan yam preskau internacia.
+
+Pri demokrato? La ideo esta la sekva:
 Ni faron balotos, kay baloto por hierarkigi la balotos.
-Sed atentu! Nova proponos devan esti kompleta au almenau evalui la tempo da laboro necesi por jisdatigi la dokumentos kaj la vortaros.
+Sed atentu! Nova proponos devan esti kompleta au almenau evalui la tempo da laboro necesi por jisdatigi la dokumentos kay la vortaros.
 
 ## Permesilo
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
