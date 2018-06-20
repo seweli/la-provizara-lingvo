@@ -1,5 +1,5 @@
 # la-provizara-lingvo
-A try of coopidgin based on the Esperanto auxlang
+La provizara lingvo estan "koopidgina" esperantido kiu restan tre tre prokisma al la nuna Esperanto. Fakte, nune, La Provizara estan nur embrio de esperantido. Ekzemple, mi ne scian kiel traduki "Mi shatan la alia(s)" en la pluralo.
 
 Mi volan paroli la provizara lingvo, char ji havan nur malmulta malsamecos kompare al la zamenofa lingvo.
 Do, yen KoopidginoProvizaraLingvo001:
@@ -7,7 +7,7 @@ Do, yen KoopidginoProvizaraLingvo001:
 ## Celo
 La celo de la provizara lingvo estan esti provizara. Ji devan esti ankau sufiche neutra kaj sufiche simpla por ebli homos el la tuta mondo kunlabori por krei pli moderna helplingvos, pli moderna eduksciencos por lingvinstruado, pli efika politika proponos por savi kay liberigi la endenjera lingvos.
 
-Do kio ijon Esperantujo? Ji ijon amika granda frato kay tre respektinda modelo por multa nova helplingvos. Ni estan ege dankema.
+Do kio ijon Esperantujo? Ji vershajne reston la unua helplingvo. Kay li reston ia amika granda frato kay tre respektinda modelo por multa nova helplingvujos.
 
 ## Pluralo
 Ech se ne belan, la pluralo per la finayo -s sufiche taugan, char ji similas al la angla kay al la hispana, kay char la finayo per -y ne belun.
