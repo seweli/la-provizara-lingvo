@@ -45,9 +45,9 @@ ili eston kantato.
 Mi shatan kanti.
 Kantu!
 
-## Genro
+## Genro kaj pronomos
 Ni uzon klasika propono:
-Hi kay shi estan li (homo, sen precizo pri la genro).
+Ni uzon do: Hi (homico) kay shi (homino) kiu ambau estan li (homo, sen precizo pri la genro).
 Instruisto estan au instruistino au instruiticho.
 Kio? -icho ne belan? Ne gravan! Estan PROVIZORO :-)
 
