@@ -7,7 +7,7 @@ Do, yen la KoopidginoProvizaraLingvo001:
 ## Celo
 La celo de la provizara lingvo estan ye esti provizara. Ji devan esti ankau sufiche neutra kay sufiche simpla por ebligi homos el la tuta mondo kunlabori por krei pli moderna helplingvos, pli moderna eduksciencos por lingvinstruado, pli efika politika proponos por savi kay liberigi la endenjera lingvos, kotopo ;-)
 
-Do kio ijon Esperantuyo se alia esperantidos ekzistas samtempe? Ji vershajne reston la chefa helplingvo. Kay li reston ia amika granda frato kay tre respektinda modelo por la multa nova helplingvuyos.
+Do kio ijon Esperantuyo se alia esperantidos ekzistas samtempe? Ji vershajne reston la chefa helplingvo. Kay ji reston ia amika granda frato kay tre respektinda modelo por la multa nova helplingvuyos.
 
 ## Pluralo
 Ech se ne belan, la pluralo per la finayo -s sufiche taugan, char ji similas al la angla kay al la hispana, kay char la finayo per -y ne belun (ech se ji belsonun, lau mi).
